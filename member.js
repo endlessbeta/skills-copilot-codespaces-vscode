@@ -1,4 +1,3 @@
 function skillMember() {
-    console.log('skillMember');
-    return 'skillMember';
+  console.log('skillMember');
 }
